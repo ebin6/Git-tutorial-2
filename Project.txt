@@ -1,3 +1,7 @@
 Initial configurations for file.
 
-This is sample project git tutorial . 
+This is sample project git tutorial .
+
+Login details required for login : 
+   Username 
+   Password 
