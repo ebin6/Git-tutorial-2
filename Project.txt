@@ -1,1 +1,3 @@
-Initial configurations for file 
+Initial configurations for file.
+
+This is sample project git tutorial . 
