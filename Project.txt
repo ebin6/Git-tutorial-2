@@ -5,3 +5,7 @@ This is sample project git tutorial .
 Login details required for login : 
    Username 
    Password 
+
+Steps for user register 
+   Email validation 
+   Phone number validation
